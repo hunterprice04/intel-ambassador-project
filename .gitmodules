@@ -1,3 +1,6 @@
 [submodule "python-embree"]
 	path = python-embree
 	url = git@github.com:sampotter/python-embree.git
+[submodule "ospray-python"]
+	path = ospray-python
+	url = git@github.com:hunterprice04/ospray-python.git
