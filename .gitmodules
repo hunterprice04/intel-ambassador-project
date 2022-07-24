@@ -1,0 +1,3 @@
+[submodule "python-embree"]
+	path = python-embree
+	url = git@github.com:sampotter/python-embree.git
