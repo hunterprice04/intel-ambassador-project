@@ -4,3 +4,9 @@
 [submodule "ospray-python"]
 	path = ospray-python
 	url = git@github.com:hunterprice04/ospray-python.git
+[submodule "blender-ply-import"]
+	path = blender-ply-import
+	url = git@github.com:paulmelis/blender-ply-import.git
+[submodule "vtk"]
+	path = vtk
+	url = https://gitlab.kitware.com/vtk/vtk.git
